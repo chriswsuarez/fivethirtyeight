@@ -12,6 +12,7 @@ def rug_maker(colors):
 	for i in range(0,100):
 		row = list()
 
+		# Generating each row of the rug
 		for j in range(0,100):
 			row.append(int(numpy.random.randint(0,colors)))
 
@@ -20,20 +21,32 @@ def rug_maker(colors):
 	# print("New rug made!")
 	# print(rug)
 
+	# Searching each possible 4x4 block.
+	# 97 must be used because there are only 97x97 distinct 4x4 blocks in a 100x100 grid
 	for i in range(0,97):
 		for j in range(0,97):
 			# print("Checking next 4x4")
 			keep = False
+
+			# Grabbing the first color of the 4x4 and all colors must match this for rejection
 			color_to_match = rug[i][j]
+
+			# Iterating through the 4x4 block and checking each color against the first 1x1
 			for k in range(0,4):
 				for l in range(0,4):
+
+					# If the color does not match the first 1x1 then we can move on to the next 4x4 immediately
 					if color_to_match != rug[i+k][j+l]: 
 						# print("4x4 not homogenus!")
 						keep = True
 						break
+			
+			# If keep is not true after we have gone through the entire 4x4 then we must reject the rug
 			if not keep:
 				# print("RUG NO GOOD")
 				return False
+
+	# If we make it all the way through without returning false then the rug is good to go
 	return True
 
 if __name__=='__main__':
