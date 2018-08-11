@@ -74,4 +74,4 @@ if __name__=='__main__':
 		sys.stdout.write("\n...")
 		sys.stdout.flush()
 	
-	print("\nSampled Probability of rug rejection: " + str(rejections/float(trials)))
+	print("\nSampled probability of rug rejection: " + str(rejections/float(trials)))
