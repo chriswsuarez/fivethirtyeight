@@ -67,8 +67,8 @@ if __name__=='__main__':
 		sys.stdout.write("\nTimes died: " + str(deaths))
 		sys.stdout.write("\nRun time: " + str(math.floor(run_time * 10) / 10) + " seconds     ")
 		sys.stdout.write("\nEstimated time remaining: " + str(math.floor((trials*run_time / (t+1) - run_time)*10) / 10) + " seconds     ")
-		sys.stdout.write("\nAverage days survived: " + str( cum_days_survived / (t+1)))
-		sys.stdout.write("\nLongest mission: " + str(max_days_survived))
+		sys.stdout.write("\nAverage days survived: " + str( cum_days_survived / (t+1)) + " days     ")
+		sys.stdout.write("\nLongest mission: " + str(max_days_survived) + " days     ")
 		sys.stdout.write("\n...")
 		sys.stdout.flush()
 
