@@ -10,7 +10,7 @@ def equipment_failure_simulator(p1, p2, p3, mission_length):
 	p_fail = [p1, p2, p3]
 	failed = [numpy.random.binomial(1,p) for p in p_fail]
 
-	for day_no in range(0, mission_length):
+	for day_no in range(1, mission_length+1):
 
 		if failed.count(1) == 3:
 			return [False, day_no]
