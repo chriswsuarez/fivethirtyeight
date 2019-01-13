@@ -35,17 +35,11 @@ def equipment_failure_simulator(p1, p2, p3, mission_length):
 if __name__=='__main__':
 	start_time = time.time()
 
-	p1 = .1
-	p2 = .075
-	p3 = .05
-	days = 1825
-	# trials = 1
-
 	p1 = float(raw_input("What's the probability of printer 1 failing in a given day? "))
 	p2 = float(raw_input("What's the probability of printer 2 failing in a given day? "))
 	p3 = float(raw_input("What's the probability of printer 3 failing in a given day? "))
 
-	# days = int(raw_input("How many days is the mission to Mars? "))
+	days = int(raw_input("How many days is the mission to Mars? "))
 	trials = int(raw_input("How many missions do you want to simulate? "))
 
 	print("...")
