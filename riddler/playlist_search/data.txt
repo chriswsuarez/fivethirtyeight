@@ -1,0 +1,147 @@
+--- RESULTS at Distance 0 (1,000,000 trials) ---
+Turn median: 68.0
+Turn mean: 98.961859
+Stdev: 99.5580108593
+Max: 1282
+------------------------------------------------
+
+--- RESULTS at Distance 1 (1,000,000 trials) ---
+Turn median: 34.0
+Turn mean: 49.504777
+Stdev: 49.4778318561
+Max: 701
+------------------------------------------------
+
+--- RESULTS at Distance 2 (1,000,000 trials) ---
+Turn median: 23.0
+Turn mean: 33.294297
+Stdev: 32.8076631029
+Max: 469
+------------------------------------------------
+
+--- RESULTS at Distance 3 (1,000,000 trials) ---
+Turn median: 18.0
+Turn mean: 25.514324
+Stdev: 24.5418142121
+Max: 354
+------------------------------------------------
+
+--- RESULTS at Distance 4 (1,000,000 trials) ---
+Turn median: 15.0
+Turn mean: 21.01375
+Stdev: 19.5513613065
+Max: 256
+------------------------------------------------
+
+--- RESULTS at Distance 5 (1,000,000 trials) ---
+Turn median: 13.0
+Turn mean: 18.189996
+Stdev: 16.2807188883
+Max: 232
+------------------------------------------------
+
+--- RESULTS at Distance 6 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 16.276044
+Stdev: 13.936471853
+Max: 211
+------------------------------------------------
+
+--- RESULTS at Distance 7 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 14.986353
+Stdev: 12.19882022
+Max: 181
+------------------------------------------------
+
+--- RESULTS at Distance 8 (1,000,000 trials) ---
+Turn median: 11.0
+Turn mean: 14.084149
+Stdev: 10.8767106216
+Max: 153
+------------------------------------------------
+
+--- RESULTS at Distance 9 (1,000,000 trials) ---
+Turn median: 11.0
+Turn mean: 13.497694
+Stdev: 9.90159940022
+Max: 134
+------------------------------------------------
+
+--- RESULTS at Distance 10 (1,000,000 trials) ---
+Turn median: 11.0
+Turn mean: 13.102223
+Stdev: 9.14775740049
+Max: 139
+------------------------------------------------
+
+--- RESULTS at Distance 11 (1,000,000 trials) ---
+Turn median: 11.0
+Turn mean: 12.838072
+Stdev: 8.55418829129
+Max: 116
+------------------------------------------------
+
+--- RESULTS at Distance 12 (1,000,000 trials) ---
+Turn median: 11.0
+Turn mean: 12.701293
+Stdev: 8.10175987846
+Max: 109
+------------------------------------------------
+
+--- RESULTS at Distance 13 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 12.630006
+Stdev: 7.75275115298
+Max: 101
+------------------------------------------------
+
+--- RESULTS at Distance 14 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 12.665747
+Stdev: 7.50994699928
+Max: 101
+------------------------------------------------
+
+--- RESULTS at Distance 15 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 12.747383
+Stdev: 7.35642302014
+Max: 95
+------------------------------------------------
+
+--- RESULTS at Distance 16 (1,000,000 trials) ---
+Turn median: 12.0
+Turn mean: 12.893737
+Stdev: 7.27332614248
+Max: 95
+------------------------------------------------
+
+--- RESULTS at Distance 17 (1,000,000 trials) ---
+Turn median: 13.0
+Turn mean: 13.063271
+Stdev: 7.2353248566
+Max: 76
+------------------------------------------------
+
+--- RESULTS at Distance 18 (1,000,000 trials) ---
+Turn median: 13.0
+Turn mean: 13.264261
+Stdev: 7.24228093379
+Max: 84
+------------------------------------------------
+
+--- RESULTS at Distance 19 (1,000,000 trials) ---
+Turn median: 13.0
+Turn mean: 13.505186
+Stdev: 7.29592756991
+Max: 74
+------------------------------------------------
+
+--- RESULTS at Distance 20 (1,000,000 trials) ---
+Turn median: 14.0
+Turn mean: 13.766137
+Stdev: 7.39332598343
+Max: 85
+------------------------------------------------
+
